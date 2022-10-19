@@ -1,0 +1,20 @@
+body {
+  background-color: darkgrey;
+}
+
+.record {
+  height: 8em;
+  width: 8em;
+  border-color: #df6b6b;
+  background-color: aliceblue;
+  padding: 2em;
+  margin: 1em;
+}
+
+.record:hover {
+  box-shadow: .5rem 1rem rgb(213, 223, 230);
+}
+
+.control {
+  margin: 0.5em;
+}
