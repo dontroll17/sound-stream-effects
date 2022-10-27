@@ -1,6 +1,6 @@
 # Sound stream effects
 
-Using web audio api
+Using web audio api for processing sound from a microphone
 
 # Setup
 
